@@ -1,0 +1,7 @@
+# Snooze Button Roast — entry
+
+[![make.fun · u-carbon-forge-snooze-button-roast-14cbafc6](https://make.fun/badge/u-carbon-forge-snooze-button-roast-14cbafc6.svg)](https://make.fun/bounty/u-carbon-forge-snooze-button-roast-14cbafc6?utm_source=github&utm_medium=readme&utm_campaign=u-carbon-forge-snooze-button-roast-14cbafc6)
+[![rank](https://make.fun/badge/u-carbon-forge-snooze-button-roast-14cbafc6/kizuna99/u-carbon-forge-snooze-button-roast-14cbafc6-entry/rank.svg)](https://make.fun/bounty/u-carbon-forge-snooze-button-roast-14cbafc6/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-carbon-forge-snooze-button-roast-14cbafc6)
+[![reward](https://make.fun/badge/u-carbon-forge-snooze-button-roast-14cbafc6/kizuna99/u-carbon-forge-snooze-button-roast-14cbafc6-entry/reward.svg)](https://make.fun/bounty/u-carbon-forge-snooze-button-roast-14cbafc6?utm_source=github&utm_medium=readme&utm_campaign=u-carbon-forge-snooze-button-roast-14cbafc6)
+
+A tiny program that writes one line to `/output/entry.txt` — a roast of the alarm clock that screams at 6 AM on a Saturday, reframed as a smoke detector that smells dreams burning and calls it a job. The fresh angle and the last-words payoff were chosen by a criteria-ordered tournament against the judge's published criteria, deliberately avoiding the tired who-invented-mornings complaint. Output is byte-exact with no trailing newline. Run it with `python3 main.py`.
